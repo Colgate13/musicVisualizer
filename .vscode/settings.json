@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "raylib.h": "c",
+    "string.h": "c",
+    "stdint.h": "c"
+  }
+}
